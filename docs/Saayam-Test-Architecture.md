@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Owners:** Engineer A (UI Lead), Engineer B (AWS/Backend Lead)  
-**Last Updated:** 2025-08-19
+**Last Updated:** 2025-08-26
 
 ---
 
