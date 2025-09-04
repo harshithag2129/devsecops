@@ -62,3 +62,5 @@ The UI is a React SPA with the following main flows:
 ### Donate
 - External or integrated payment gateway.
 - Links to backend for transaction logging.
+
+
